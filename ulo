@@ -23,7 +23,7 @@ rootfs_path="./rootfs"
 fwdriver_path="./core/root/lib"
 
 # Kernel & Firmware Repository
-repos="https://github.com/chanz-x/ULO-repository"
+repos="https://github.com/ribel13/ULO-repository"
 
 # Custom ROOTFS Repository on releases
 rootfs_repo="chanz-x/rootfs-openwrt"
